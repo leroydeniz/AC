@@ -1,0 +1,82 @@
+Serie
+
+ Tamaino del vector a procesar --->  1
+ Tej. (serie) = 0.009 ms
+
+ Tamaino del vector a procesar --->  10
+ Tej. (serie) = 0.087 ms
+
+ Tamaino del vector a procesar --->  100
+ Tej. (serie) = 0.871 ms
+
+ Tamaino del vector a procesar --->  1000
+ Tej. (serie) = 8.607 ms
+
+ Tamaino del vector a procesar --->  10000
+ Tej. (serie) = 85.884 ms
+
+ Tamaino del vector a procesar --->  100000
+ Tej. (serie) = 859.095 ms
+
+ Tamaino del vector a procesar --->  1000000
+ Tej. (serie) = 8594.985 ms
+
+ Tamaino del vector a procesar --->  10000000
+ Tej. (serie) = 85965.445 ms
+
+
+
+4 hilos
+
+ Tamaino del vector a procesar --->  1
+ Tej. (4) = 0.010 ms
+
+ Tamaino del vector a procesar --->  10
+ Tej. (4) = 0.093 ms
+
+ Tamaino del vector a procesar --->  100
+ Tej. (4) = 0.928 ms
+
+ Tamaino del vector a procesar --->  1000
+ Tej. (4) = 9.306 ms
+
+ Tamaino del vector a procesar --->  10000
+ Tej. (4) = 93.002 ms
+
+ Tamaino del vector a procesar --->  100000
+ Tej. (4) = 929.962 ms
+
+ Tamaino del vector a procesar --->  1000000
+ Tej. (4) = 9284.617 ms
+
+ Tamaino del vector a procesar --->  10000000
+ Tej. (4) = 93047.816 ms
+
+
+
+8 hilos
+
+ Tamaino del vector a procesar --->  1
+ Tej. (8) = 0.009 ms
+
+ Tamaino del vector a procesar --->  10
+ Tej. (8) = 0.095 ms
+
+ Tamaino del vector a procesar --->  100
+ Tej. (8) = 0.937 ms
+
+ Tamaino del vector a procesar --->  1000
+ Tej. (8) = 9.317 ms
+
+ Tamaino del vector a procesar --->  10000
+ Tej. (8) = 93.143 ms
+
+ Tamaino del vector a procesar --->  100000
+ Tej. (8) = 930.876 ms
+
+ Tamaino del vector a procesar --->  1000000
+ Tej. (8) = 9243.280 ms
+
+ Tamaino del vector a procesar --->  10000000
+ Tej. (8) = 92790.575 ms
+
