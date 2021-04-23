@@ -1,0 +1,6 @@
+//COMPILAR
+gcc pagina_s.c filter.c encript.c preparar_subida.c pixmap.o upload.o -lm -o app -O2
+											-fopenmp
+
+//DESCARGAR IMAGEN
+scp marq01@u010415.gi.ehu.es:/home/users/marq/marq01/AP/Libro1.pgm /Users/ldeniz/Desktop/

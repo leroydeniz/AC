@@ -1,0 +1,3780 @@
+
+******************************** (static, 0) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2443.2 ms
+     Cifrar la pagina: 		Tej. serie = 66.8 ms
+     Preparar la subida: 	Tej. serie = 638.6 ms
+
+     TOTAL: 			Tej. serie = 3148.7 ms
+
+
+
+******************************** (static, 0) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1524.2 ms
+     Cifrar la pagina: 		Tej. serie = 36.4 ms
+     Preparar la subida: 	Tej. serie = 325.0 ms
+
+     TOTAL: 			Tej. serie = 1885.6 ms
+
+
+
+******************************** (static, 0) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1106.6 ms
+     Cifrar la pagina: 		Tej. serie = 21.6 ms
+     Preparar la subida: 	Tej. serie = 160.3 ms
+
+     TOTAL: 			Tej. serie = 1288.5 ms
+
+
+
+******************************** (static, 0) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 859.9 ms
+     Cifrar la pagina: 		Tej. serie = 14.4 ms
+     Preparar la subida: 	Tej. serie = 86.8 ms
+
+     TOTAL: 			Tej. serie = 961.2 ms
+
+
+
+******************************** (static, 0) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 825.0 ms
+     Cifrar la pagina: 		Tej. serie = 10.4 ms
+     Preparar la subida: 	Tej. serie = 57.9 ms
+
+     TOTAL: 			Tej. serie = 893.3 ms
+
+
+
+******************************** (static, 0) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 813.9 ms
+     Cifrar la pagina: 		Tej. serie = 9.3 ms
+     Preparar la subida: 	Tej. serie = 43.3 ms
+
+     TOTAL: 			Tej. serie = 866.5 ms
+
+
+
+******************************** (static, 1) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2452.3 ms
+     Cifrar la pagina: 		Tej. serie = 256.5 ms
+     Preparar la subida: 	Tej. serie = 739.6 ms
+
+     TOTAL: 			Tej. serie = 3448.3 ms
+
+
+
+******************************** (static, 1) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1534.7 ms
+     Cifrar la pagina: 		Tej. serie = 137.0 ms
+     Preparar la subida: 	Tej. serie = 371.1 ms
+
+     TOTAL: 			Tej. serie = 2042.8 ms
+
+
+
+******************************** (static, 1) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1111.4 ms
+     Cifrar la pagina: 		Tej. serie = 80.3 ms
+     Preparar la subida: 	Tej. serie = 186.3 ms
+
+     TOTAL: 			Tej. serie = 1378.0 ms
+
+
+
+******************************** (static, 1) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 883.3 ms
+     Cifrar la pagina: 		Tej. serie = 56.4 ms
+     Preparar la subida: 	Tej. serie = 94.9 ms
+
+     TOTAL: 			Tej. serie = 1034.6 ms
+
+
+
+******************************** (static, 1) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 841.8 ms
+     Cifrar la pagina: 		Tej. serie = 79.7 ms
+     Preparar la subida: 	Tej. serie = 64.9 ms
+
+     TOTAL: 			Tej. serie = 986.4 ms
+
+
+
+******************************** (static, 1) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 834.7 ms
+     Cifrar la pagina: 		Tej. serie = 90.6 ms
+     Preparar la subida: 	Tej. serie = 68.4 ms
+
+     TOTAL: 			Tej. serie = 993.8 ms
+
+
+
+******************************** (static, 2) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2450.2 ms
+     Cifrar la pagina: 		Tej. serie = 162.3 ms
+     Preparar la subida: 	Tej. serie = 544.4 ms
+
+     TOTAL: 			Tej. serie = 3156.9 ms
+
+
+
+******************************** (static, 2) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1533.7 ms
+     Cifrar la pagina: 		Tej. serie = 114.2 ms
+     Preparar la subida: 	Tej. serie = 273.5 ms
+
+     TOTAL: 			Tej. serie = 1921.5 ms
+
+
+
+******************************** (static, 2) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1076.9 ms
+     Cifrar la pagina: 		Tej. serie = 56.3 ms
+     Preparar la subida: 	Tej. serie = 137.9 ms
+
+     TOTAL: 			Tej. serie = 1271.1 ms
+
+
+
+******************************** (static, 2) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 903.8 ms
+     Cifrar la pagina: 		Tej. serie = 59.3 ms
+     Preparar la subida: 	Tej. serie = 74.1 ms
+
+     TOTAL: 			Tej. serie = 1037.1 ms
+
+
+
+******************************** (static, 2) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 824.8 ms
+     Cifrar la pagina: 		Tej. serie = 70.5 ms
+     Preparar la subida: 	Tej. serie = 68.9 ms
+
+     TOTAL: 			Tej. serie = 964.2 ms
+
+
+
+******************************** (static, 2) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 832.2 ms
+     Cifrar la pagina: 		Tej. serie = 35.3 ms
+     Preparar la subida: 	Tej. serie = 62.5 ms
+
+     TOTAL: 			Tej. serie = 930.1 ms
+
+
+
+******************************** (static, 4) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2444.9 ms
+     Cifrar la pagina: 		Tej. serie = 116.3 ms
+     Preparar la subida: 	Tej. serie = 445.5 ms
+
+     TOTAL: 			Tej. serie = 3006.7 ms
+
+
+
+******************************** (static, 4) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1530.2 ms
+     Cifrar la pagina: 		Tej. serie = 94.2 ms
+     Preparar la subida: 	Tej. serie = 232.3 ms
+
+     TOTAL: 			Tej. serie = 1856.6 ms
+
+
+
+******************************** (static, 4) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1108.5 ms
+     Cifrar la pagina: 		Tej. serie = 39.5 ms
+     Preparar la subida: 	Tej. serie = 114.8 ms
+
+     TOTAL: 			Tej. serie = 1262.9 ms
+
+
+
+******************************** (static, 4) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 901.5 ms
+     Cifrar la pagina: 		Tej. serie = 36.5 ms
+     Preparar la subida: 	Tej. serie = 63.2 ms
+
+     TOTAL: 			Tej. serie = 1001.2 ms
+
+
+
+******************************** (static, 4) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 834.6 ms
+     Cifrar la pagina: 		Tej. serie = 26.8 ms
+     Preparar la subida: 	Tej. serie = 64.6 ms
+
+     TOTAL: 			Tej. serie = 926.1 ms
+
+
+
+******************************** (static, 4) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 831.8 ms
+     Cifrar la pagina: 		Tej. serie = 22.7 ms
+     Preparar la subida: 	Tej. serie = 43.9 ms
+
+     TOTAL: 			Tej. serie = 898.4 ms
+
+
+
+******************************** (static, 8) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2444.8 ms
+     Cifrar la pagina: 		Tej. serie = 95.5 ms
+     Preparar la subida: 	Tej. serie = 406.6 ms
+
+     TOTAL: 			Tej. serie = 2946.9 ms
+
+
+
+******************************** (static, 8) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1527.8 ms
+     Cifrar la pagina: 		Tej. serie = 65.1 ms
+     Preparar la subida: 	Tej. serie = 213.2 ms
+
+     TOTAL: 			Tej. serie = 1806.2 ms
+
+
+
+******************************** (static, 8) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1071.7 ms
+     Cifrar la pagina: 		Tej. serie = 44.4 ms
+     Preparar la subida: 	Tej. serie = 105.8 ms
+
+     TOTAL: 			Tej. serie = 1221.9 ms
+
+
+
+******************************** (static, 8) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 893.5 ms
+     Cifrar la pagina: 		Tej. serie = 26.3 ms
+     Preparar la subida: 	Tej. serie = 65.2 ms
+
+     TOTAL: 			Tej. serie = 985.0 ms
+
+
+
+******************************** (static, 8) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 820.0 ms
+     Cifrar la pagina: 		Tej. serie = 20.4 ms
+     Preparar la subida: 	Tej. serie = 43.2 ms
+
+     TOTAL: 			Tej. serie = 883.6 ms
+
+
+
+******************************** (static, 8) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 781.1 ms
+     Cifrar la pagina: 		Tej. serie = 18.2 ms
+     Preparar la subida: 	Tej. serie = 33.3 ms
+
+     TOTAL: 			Tej. serie = 832.6 ms
+
+
+
+******************************** (static, 16) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2450.3 ms
+     Cifrar la pagina: 		Tej. serie = 81.7 ms
+     Preparar la subida: 	Tej. serie = 376.6 ms
+
+     TOTAL: 			Tej. serie = 2908.6 ms
+
+
+
+******************************** (static, 16) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1527.0 ms
+     Cifrar la pagina: 		Tej. serie = 57.3 ms
+     Preparar la subida: 	Tej. serie = 203.0 ms
+
+     TOTAL: 			Tej. serie = 1787.3 ms
+
+
+
+******************************** (static, 16) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1106.6 ms
+     Cifrar la pagina: 		Tej. serie = 38.8 ms
+     Preparar la subida: 	Tej. serie = 106.3 ms
+
+     TOTAL: 			Tej. serie = 1251.8 ms
+
+
+
+******************************** (static, 16) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 920.8 ms
+     Cifrar la pagina: 		Tej. serie = 23.9 ms
+     Preparar la subida: 	Tej. serie = 53.8 ms
+
+     TOTAL: 			Tej. serie = 998.6 ms
+
+
+
+******************************** (static, 16) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 839.4 ms
+     Cifrar la pagina: 		Tej. serie = 19.4 ms
+     Preparar la subida: 	Tej. serie = 37.1 ms
+
+     TOTAL: 			Tej. serie = 895.9 ms
+
+
+
+******************************** (static, 16) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 804.1 ms
+     Cifrar la pagina: 		Tej. serie = 17.9 ms
+     Preparar la subida: 	Tej. serie = 28.1 ms
+
+     TOTAL: 			Tej. serie = 850.1 ms
+
+
+
+******************************** (static, 32) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2444.6 ms
+     Cifrar la pagina: 		Tej. serie = 85.2 ms
+     Preparar la subida: 	Tej. serie = 365.0 ms
+
+     TOTAL: 			Tej. serie = 2894.8 ms
+
+
+
+******************************** (static, 32) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1545.3 ms
+     Cifrar la pagina: 		Tej. serie = 61.6 ms
+     Preparar la subida: 	Tej. serie = 200.6 ms
+
+     TOTAL: 			Tej. serie = 1807.5 ms
+
+
+
+******************************** (static, 32) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1100.7 ms
+     Cifrar la pagina: 		Tej. serie = 30.9 ms
+     Preparar la subida: 	Tej. serie = 104.9 ms
+
+     TOTAL: 			Tej. serie = 1236.6 ms
+
+
+
+******************************** (static, 32) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 896.4 ms
+     Cifrar la pagina: 		Tej. serie = 18.6 ms
+     Preparar la subida: 	Tej. serie = 52.5 ms
+
+     TOTAL: 			Tej. serie = 967.5 ms
+
+
+
+******************************** (static, 32) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 856.6 ms
+     Cifrar la pagina: 		Tej. serie = 16.1 ms
+     Preparar la subida: 	Tej. serie = 35.6 ms
+
+     TOTAL: 			Tej. serie = 908.3 ms
+
+
+
+******************************** (static, 32) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 880.0 ms
+     Cifrar la pagina: 		Tej. serie = 20.1 ms
+     Preparar la subida: 	Tej. serie = 26.5 ms
+
+     TOTAL: 			Tej. serie = 926.6 ms
+
+
+
+******************************** (dynamic, 0) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2458.4 ms
+     Cifrar la pagina: 		Tej. serie = 1004.4 ms
+     Preparar la subida: 	Tej. serie = 1402.8 ms
+
+     TOTAL: 			Tej. serie = 4865.6 ms
+
+
+
+******************************** (dynamic, 0) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1538.6 ms
+     Cifrar la pagina: 		Tej. serie = 837.7 ms
+     Preparar la subida: 	Tej. serie = 1112.0 ms
+
+     TOTAL: 			Tej. serie = 3488.2 ms
+
+
+
+******************************** (dynamic, 0) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1087.9 ms
+     Cifrar la pagina: 		Tej. serie = 828.6 ms
+     Preparar la subida: 	Tej. serie = 996.4 ms
+
+     TOTAL: 			Tej. serie = 2913.0 ms
+
+
+
+******************************** (dynamic, 0) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 876.6 ms
+     Cifrar la pagina: 		Tej. serie = 863.6 ms
+     Preparar la subida: 	Tej. serie = 1193.0 ms
+
+     TOTAL: 			Tej. serie = 2933.2 ms
+
+
+
+******************************** (dynamic, 0) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 812.5 ms
+     Cifrar la pagina: 		Tej. serie = 860.5 ms
+     Preparar la subida: 	Tej. serie = 1207.0 ms
+
+     TOTAL: 			Tej. serie = 2880.0 ms
+
+
+
+******************************** (dynamic, 0) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 770.8 ms
+     Cifrar la pagina: 		Tej. serie = 851.3 ms
+     Preparar la subida: 	Tej. serie = 1204.5 ms
+
+     TOTAL: 			Tej. serie = 2826.6 ms
+
+
+
+******************************** (dynamic, 1) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2457.2 ms
+     Cifrar la pagina: 		Tej. serie = 830.2 ms
+     Preparar la subida: 	Tej. serie = 1164.8 ms
+
+     TOTAL: 			Tej. serie = 4452.1 ms
+
+
+
+******************************** (dynamic, 1) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1538.3 ms
+     Cifrar la pagina: 		Tej. serie = 911.1 ms
+     Preparar la subida: 	Tej. serie = 1182.3 ms
+
+     TOTAL: 			Tej. serie = 3631.7 ms
+
+
+
+******************************** (dynamic, 1) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1088.6 ms
+     Cifrar la pagina: 		Tej. serie = 866.5 ms
+     Preparar la subida: 	Tej. serie = 1090.3 ms
+
+     TOTAL: 			Tej. serie = 3045.5 ms
+
+
+
+******************************** (dynamic, 1) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 884.9 ms
+     Cifrar la pagina: 		Tej. serie = 838.8 ms
+     Preparar la subida: 	Tej. serie = 1195.4 ms
+
+     TOTAL: 			Tej. serie = 2919.1 ms
+
+
+
+******************************** (dynamic, 1) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 823.3 ms
+     Cifrar la pagina: 		Tej. serie = 844.6 ms
+     Preparar la subida: 	Tej. serie = 1214.0 ms
+
+     TOTAL: 			Tej. serie = 2881.9 ms
+
+
+
+******************************** (dynamic, 1) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 783.0 ms
+     Cifrar la pagina: 		Tej. serie = 850.4 ms
+     Preparar la subida: 	Tej. serie = 1214.8 ms
+
+     TOTAL: 			Tej. serie = 2848.2 ms
+
+
+
+******************************** (dynamic, 2) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2453.5 ms
+     Cifrar la pagina: 		Tej. serie = 545.1 ms
+     Preparar la subida: 	Tej. serie = 864.8 ms
+
+     TOTAL: 			Tej. serie = 3863.3 ms
+
+
+
+******************************** (dynamic, 2) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1534.2 ms
+     Cifrar la pagina: 		Tej. serie = 449.3 ms
+     Preparar la subida: 	Tej. serie = 627.4 ms
+
+     TOTAL: 			Tej. serie = 2610.8 ms
+
+
+
+******************************** (dynamic, 2) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1080.7 ms
+     Cifrar la pagina: 		Tej. serie = 424.5 ms
+     Preparar la subida: 	Tej. serie = 580.6 ms
+
+     TOTAL: 			Tej. serie = 2085.8 ms
+
+
+
+******************************** (dynamic, 2) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 883.9 ms
+     Cifrar la pagina: 		Tej. serie = 434.9 ms
+     Preparar la subida: 	Tej. serie = 635.0 ms
+
+     TOTAL: 			Tej. serie = 1953.8 ms
+
+
+
+******************************** (dynamic, 2) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 802.3 ms
+     Cifrar la pagina: 		Tej. serie = 432.2 ms
+     Preparar la subida: 	Tej. serie = 640.4 ms
+
+     TOTAL: 			Tej. serie = 1874.9 ms
+
+
+
+******************************** (dynamic, 2) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 804.5 ms
+     Cifrar la pagina: 		Tej. serie = 399.8 ms
+     Preparar la subida: 	Tej. serie = 708.6 ms
+
+     TOTAL: 			Tej. serie = 1912.9 ms
+
+
+
+******************************** (dynamic, 4) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2454.3 ms
+     Cifrar la pagina: 		Tej. serie = 311.9 ms
+     Preparar la subida: 	Tej. serie = 610.4 ms
+
+     TOTAL: 			Tej. serie = 3376.7 ms
+
+
+
+******************************** (dynamic, 4) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1533.7 ms
+     Cifrar la pagina: 		Tej. serie = 247.9 ms
+     Preparar la subida: 	Tej. serie = 428.7 ms
+
+     TOTAL: 			Tej. serie = 2210.3 ms
+
+
+
+******************************** (dynamic, 4) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1074.9 ms
+     Cifrar la pagina: 		Tej. serie = 223.1 ms
+     Preparar la subida: 	Tej. serie = 399.5 ms
+
+     TOTAL: 			Tej. serie = 1697.4 ms
+
+
+
+******************************** (dynamic, 4) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 881.2 ms
+     Cifrar la pagina: 		Tej. serie = 229.0 ms
+     Preparar la subida: 	Tej. serie = 419.5 ms
+
+     TOTAL: 			Tej. serie = 1529.7 ms
+
+
+
+******************************** (dynamic, 4) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 813.9 ms
+     Cifrar la pagina: 		Tej. serie = 211.2 ms
+     Preparar la subida: 	Tej. serie = 435.7 ms
+
+     TOTAL: 			Tej. serie = 1460.8 ms
+
+
+
+******************************** (dynamic, 4) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 779.3 ms
+     Cifrar la pagina: 		Tej. serie = 220.0 ms
+     Preparar la subida: 	Tej. serie = 435.2 ms
+
+     TOTAL: 			Tej. serie = 1434.5 ms
+
+
+
+******************************** (dynamic, 8) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2450.2 ms
+     Cifrar la pagina: 		Tej. serie = 197.3 ms
+     Preparar la subida: 	Tej. serie = 472.0 ms
+
+     TOTAL: 			Tej. serie = 3119.5 ms
+
+
+
+******************************** (dynamic, 8) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1528.7 ms
+     Cifrar la pagina: 		Tej. serie = 174.1 ms
+     Preparar la subida: 	Tej. serie = 358.6 ms
+
+     TOTAL: 			Tej. serie = 2061.5 ms
+
+
+
+******************************** (dynamic, 8) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1076.7 ms
+     Cifrar la pagina: 		Tej. serie = 119.7 ms
+     Preparar la subida: 	Tej. serie = 282.0 ms
+
+     TOTAL: 			Tej. serie = 1478.4 ms
+
+
+
+******************************** (dynamic, 8) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 863.2 ms
+     Cifrar la pagina: 		Tej. serie = 122.5 ms
+     Preparar la subida: 	Tej. serie = 258.7 ms
+
+     TOTAL: 			Tej. serie = 1244.4 ms
+
+
+
+******************************** (dynamic, 8) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 825.7 ms
+     Cifrar la pagina: 		Tej. serie = 115.5 ms
+     Preparar la subida: 	Tej. serie = 237.1 ms
+
+     TOTAL: 			Tej. serie = 1178.3 ms
+
+
+
+******************************** (dynamic, 8) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 778.8 ms
+     Cifrar la pagina: 		Tej. serie = 105.8 ms
+     Preparar la subida: 	Tej. serie = 220.0 ms
+
+     TOTAL: 			Tej. serie = 1104.6 ms
+
+
+
+******************************** (dynamic, 16) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2442.5 ms
+     Cifrar la pagina: 		Tej. serie = 182.1 ms
+     Preparar la subida: 	Tej. serie = 409.0 ms
+
+     TOTAL: 			Tej. serie = 3033.5 ms
+
+
+
+******************************** (dynamic, 16) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1528.2 ms
+     Cifrar la pagina: 		Tej. serie = 143.6 ms
+     Preparar la subida: 	Tej. serie = 261.5 ms
+
+     TOTAL: 			Tej. serie = 1933.3 ms
+
+
+
+******************************** (dynamic, 16) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1089.3 ms
+     Cifrar la pagina: 		Tej. serie = 78.4 ms
+     Preparar la subida: 	Tej. serie = 178.6 ms
+
+     TOTAL: 			Tej. serie = 1346.3 ms
+
+
+
+******************************** (dynamic, 16) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 879.8 ms
+     Cifrar la pagina: 		Tej. serie = 60.9 ms
+     Preparar la subida: 	Tej. serie = 143.2 ms
+
+     TOTAL: 			Tej. serie = 1083.9 ms
+
+
+
+******************************** (dynamic, 16) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 807.7 ms
+     Cifrar la pagina: 		Tej. serie = 62.9 ms
+     Preparar la subida: 	Tej. serie = 132.3 ms
+
+     TOTAL: 			Tej. serie = 1002.9 ms
+
+
+
+******************************** (dynamic, 16) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 817.7 ms
+     Cifrar la pagina: 		Tej. serie = 56.8 ms
+     Preparar la subida: 	Tej. serie = 117.9 ms
+
+     TOTAL: 			Tej. serie = 992.5 ms
+
+
+
+******************************** (dynamic, 32) con 2 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 2446.3 ms
+     Cifrar la pagina: 		Tej. serie = 138.8 ms
+     Preparar la subida: 	Tej. serie = 386.1 ms
+
+     TOTAL: 			Tej. serie = 2971.2 ms
+
+
+
+******************************** (dynamic, 32) con 4 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1547.7 ms
+     Cifrar la pagina: 		Tej. serie = 89.5 ms
+     Preparar la subida: 	Tej. serie = 210.1 ms
+
+     TOTAL: 			Tej. serie = 1847.3 ms
+
+
+
+******************************** (dynamic, 32) con 8 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 1088.2 ms
+     Cifrar la pagina: 		Tej. serie = 43.1 ms
+     Preparar la subida: 	Tej. serie = 123.4 ms
+
+     TOTAL: 			Tej. serie = 1254.8 ms
+
+
+
+******************************** (dynamic, 32) con 16 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 890.4 ms
+     Cifrar la pagina: 		Tej. serie = 34.9 ms
+     Preparar la subida: 	Tej. serie = 89.4 ms
+
+     TOTAL: 			Tej. serie = 1014.7 ms
+
+
+
+******************************** (dynamic, 32) con 24 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 808.3 ms
+     Cifrar la pagina: 		Tej. serie = 34.1 ms
+     Preparar la subida: 	Tej. serie = 78.0 ms
+
+     TOTAL: 			Tej. serie = 920.4 ms
+
+
+
+******************************** (dynamic, 32) con 32 hilos en Libro1.pgm ********************************
+
+
+ --> Procesando la pagina: Libro1.pgm (2758 x 3986). Limite: 177.0
+
+FILTRADO: 10 iteraciones, limite 176.723
+
+     Filtrar la pagina: 	Tej. serie = 769.1 ms
+     Cifrar la pagina: 		Tej. serie = 33.4 ms
+     Preparar la subida: 	Tej. serie = 64.3 ms
+
+     TOTAL: 			Tej. serie = 866.8 ms
+
+
+
+******************************** (static, 0) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4528.8 ms
+     Cifrar la pagina: 		Tej. serie = 120.4 ms
+     Preparar la subida: 	Tej. serie = 1169.1 ms
+
+     TOTAL: 			Tej. serie = 5818.4 ms
+
+
+
+******************************** (static, 0) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2835.2 ms
+     Cifrar la pagina: 		Tej. serie = 67.6 ms
+     Preparar la subida: 	Tej. serie = 579.9 ms
+
+     TOTAL: 			Tej. serie = 3482.8 ms
+
+
+
+******************************** (static, 0) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2008.5 ms
+     Cifrar la pagina: 		Tej. serie = 48.4 ms
+     Preparar la subida: 	Tej. serie = 291.2 ms
+
+     TOTAL: 			Tej. serie = 2348.1 ms
+
+
+
+******************************** (static, 0) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1601.0 ms
+     Cifrar la pagina: 		Tej. serie = 24.3 ms
+     Preparar la subida: 	Tej. serie = 145.9 ms
+
+     TOTAL: 			Tej. serie = 1771.2 ms
+
+
+
+******************************** (static, 0) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1512.8 ms
+     Cifrar la pagina: 		Tej. serie = 20.3 ms
+     Preparar la subida: 	Tej. serie = 108.3 ms
+
+     TOTAL: 			Tej. serie = 1641.4 ms
+
+
+
+******************************** (static, 0) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1483.6 ms
+     Cifrar la pagina: 		Tej. serie = 18.2 ms
+     Preparar la subida: 	Tej. serie = 73.2 ms
+
+     TOTAL: 			Tej. serie = 1575.0 ms
+
+
+
+******************************** (static, 1) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4531.6 ms
+     Cifrar la pagina: 		Tej. serie = 475.4 ms
+     Preparar la subida: 	Tej. serie = 1374.3 ms
+
+     TOTAL: 			Tej. serie = 6381.3 ms
+
+
+
+******************************** (static, 1) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2849.7 ms
+     Cifrar la pagina: 		Tej. serie = 250.7 ms
+     Preparar la subida: 	Tej. serie = 686.1 ms
+
+     TOTAL: 			Tej. serie = 3786.5 ms
+
+
+
+******************************** (static, 1) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2024.5 ms
+     Cifrar la pagina: 		Tej. serie = 137.0 ms
+     Preparar la subida: 	Tej. serie = 344.9 ms
+
+     TOTAL: 			Tej. serie = 2506.4 ms
+
+
+
+******************************** (static, 1) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1645.8 ms
+     Cifrar la pagina: 		Tej. serie = 106.3 ms
+     Preparar la subida: 	Tej. serie = 175.4 ms
+
+     TOTAL: 			Tej. serie = 1927.6 ms
+
+
+
+******************************** (static, 1) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1487.4 ms
+     Cifrar la pagina: 		Tej. serie = 149.1 ms
+     Preparar la subida: 	Tej. serie = 135.2 ms
+
+     TOTAL: 			Tej. serie = 1771.7 ms
+
+
+
+******************************** (static, 1) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1404.3 ms
+     Cifrar la pagina: 		Tej. serie = 109.3 ms
+     Preparar la subida: 	Tej. serie = 119.8 ms
+
+     TOTAL: 			Tej. serie = 1633.4 ms
+
+
+
+******************************** (static, 2) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4568.0 ms
+     Cifrar la pagina: 		Tej. serie = 304.5 ms
+     Preparar la subida: 	Tej. serie = 999.2 ms
+
+     TOTAL: 			Tej. serie = 5871.7 ms
+
+
+
+******************************** (static, 2) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2844.4 ms
+     Cifrar la pagina: 		Tej. serie = 164.7 ms
+     Preparar la subida: 	Tej. serie = 503.2 ms
+
+     TOTAL: 			Tej. serie = 3512.3 ms
+
+
+
+******************************** (static, 2) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1984.7 ms
+     Cifrar la pagina: 		Tej. serie = 121.8 ms
+     Preparar la subida: 	Tej. serie = 253.0 ms
+
+     TOTAL: 			Tej. serie = 2359.5 ms
+
+
+
+******************************** (static, 2) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1608.1 ms
+     Cifrar la pagina: 		Tej. serie = 100.9 ms
+     Preparar la subida: 	Tej. serie = 130.2 ms
+
+     TOTAL: 			Tej. serie = 1839.2 ms
+
+
+
+******************************** (static, 2) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1525.2 ms
+     Cifrar la pagina: 		Tej. serie = 133.5 ms
+     Preparar la subida: 	Tej. serie = 106.5 ms
+
+     TOTAL: 			Tej. serie = 1765.2 ms
+
+
+
+******************************** (static, 2) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1520.7 ms
+     Cifrar la pagina: 		Tej. serie = 89.7 ms
+     Preparar la subida: 	Tej. serie = 109.8 ms
+
+     TOTAL: 			Tej. serie = 1720.2 ms
+
+
+
+******************************** (static, 4) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4534.3 ms
+     Cifrar la pagina: 		Tej. serie = 214.8 ms
+     Preparar la subida: 	Tej. serie = 833.6 ms
+
+     TOTAL: 			Tej. serie = 5582.7 ms
+
+
+
+******************************** (static, 4) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2841.1 ms
+     Cifrar la pagina: 		Tej. serie = 144.1 ms
+     Preparar la subida: 	Tej. serie = 411.4 ms
+
+     TOTAL: 			Tej. serie = 3396.6 ms
+
+
+
+******************************** (static, 4) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2014.7 ms
+     Cifrar la pagina: 		Tej. serie = 73.1 ms
+     Preparar la subida: 	Tej. serie = 208.0 ms
+
+     TOTAL: 			Tej. serie = 2295.7 ms
+
+
+
+******************************** (static, 4) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1645.6 ms
+     Cifrar la pagina: 		Tej. serie = 65.6 ms
+     Preparar la subida: 	Tej. serie = 117.7 ms
+
+     TOTAL: 			Tej. serie = 1829.0 ms
+
+
+
+******************************** (static, 4) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1512.7 ms
+     Cifrar la pagina: 		Tej. serie = 49.0 ms
+     Preparar la subida: 	Tej. serie = 116.8 ms
+
+     TOTAL: 			Tej. serie = 1678.4 ms
+
+
+
+******************************** (static, 4) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1473.6 ms
+     Cifrar la pagina: 		Tej. serie = 51.8 ms
+     Preparar la subida: 	Tej. serie = 82.0 ms
+
+     TOTAL: 			Tej. serie = 1607.4 ms
+
+
+
+******************************** (static, 8) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4530.0 ms
+     Cifrar la pagina: 		Tej. serie = 176.3 ms
+     Preparar la subida: 	Tej. serie = 738.6 ms
+
+     TOTAL: 			Tej. serie = 5444.8 ms
+
+
+
+******************************** (static, 8) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2837.1 ms
+     Cifrar la pagina: 		Tej. serie = 99.3 ms
+     Preparar la subida: 	Tej. serie = 372.3 ms
+
+     TOTAL: 			Tej. serie = 3308.6 ms
+
+
+
+******************************** (static, 8) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1981.4 ms
+     Cifrar la pagina: 		Tej. serie = 80.6 ms
+     Preparar la subida: 	Tej. serie = 188.0 ms
+
+     TOTAL: 			Tej. serie = 2249.9 ms
+
+
+
+******************************** (static, 8) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1610.1 ms
+     Cifrar la pagina: 		Tej. serie = 47.8 ms
+     Preparar la subida: 	Tej. serie = 117.1 ms
+
+     TOTAL: 			Tej. serie = 1775.1 ms
+
+
+
+******************************** (static, 8) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1538.2 ms
+     Cifrar la pagina: 		Tej. serie = 35.0 ms
+     Preparar la subida: 	Tej. serie = 80.3 ms
+
+     TOTAL: 			Tej. serie = 1653.4 ms
+
+
+
+******************************** (static, 8) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1466.2 ms
+     Cifrar la pagina: 		Tej. serie = 33.3 ms
+     Preparar la subida: 	Tej. serie = 60.2 ms
+
+     TOTAL: 			Tej. serie = 1559.8 ms
+
+
+
+******************************** (static, 16) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4523.3 ms
+     Cifrar la pagina: 		Tej. serie = 149.3 ms
+     Preparar la subida: 	Tej. serie = 694.0 ms
+
+     TOTAL: 			Tej. serie = 5366.6 ms
+
+
+
+******************************** (static, 16) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2834.5 ms
+     Cifrar la pagina: 		Tej. serie = 130.0 ms
+     Preparar la subida: 	Tej. serie = 349.6 ms
+
+     TOTAL: 			Tej. serie = 3314.1 ms
+
+
+
+******************************** (static, 16) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1999.0 ms
+     Cifrar la pagina: 		Tej. serie = 74.3 ms
+     Preparar la subida: 	Tej. serie = 196.1 ms
+
+     TOTAL: 			Tej. serie = 2269.5 ms
+
+
+
+******************************** (static, 16) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1658.3 ms
+     Cifrar la pagina: 		Tej. serie = 42.5 ms
+     Preparar la subida: 	Tej. serie = 99.1 ms
+
+     TOTAL: 			Tej. serie = 1799.9 ms
+
+
+
+******************************** (static, 16) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1496.3 ms
+     Cifrar la pagina: 		Tej. serie = 33.7 ms
+     Preparar la subida: 	Tej. serie = 65.7 ms
+
+     TOTAL: 			Tej. serie = 1595.7 ms
+
+
+
+******************************** (static, 16) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1445.7 ms
+     Cifrar la pagina: 		Tej. serie = 33.3 ms
+     Preparar la subida: 	Tej. serie = 51.3 ms
+
+     TOTAL: 			Tej. serie = 1530.4 ms
+
+
+
+******************************** (static, 32) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4524.3 ms
+     Cifrar la pagina: 		Tej. serie = 180.6 ms
+     Preparar la subida: 	Tej. serie = 661.9 ms
+
+     TOTAL: 			Tej. serie = 5366.8 ms
+
+
+
+******************************** (static, 32) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2836.1 ms
+     Cifrar la pagina: 		Tej. serie = 127.6 ms
+     Preparar la subida: 	Tej. serie = 350.5 ms
+
+     TOTAL: 			Tej. serie = 3314.3 ms
+
+
+
+******************************** (static, 32) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1995.4 ms
+     Cifrar la pagina: 		Tej. serie = 57.0 ms
+     Preparar la subida: 	Tej. serie = 189.0 ms
+
+     TOTAL: 			Tej. serie = 2241.4 ms
+
+
+
+******************************** (static, 32) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1654.8 ms
+     Cifrar la pagina: 		Tej. serie = 33.5 ms
+     Preparar la subida: 	Tej. serie = 96.0 ms
+
+     TOTAL: 			Tej. serie = 1784.4 ms
+
+
+
+******************************** (static, 32) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1524.3 ms
+     Cifrar la pagina: 		Tej. serie = 27.4 ms
+     Preparar la subida: 	Tej. serie = 63.3 ms
+
+     TOTAL: 			Tej. serie = 1615.1 ms
+
+
+
+******************************** (static, 32) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1427.2 ms
+     Cifrar la pagina: 		Tej. serie = 26.6 ms
+     Preparar la subida: 	Tej. serie = 48.7 ms
+
+     TOTAL: 			Tej. serie = 1502.5 ms
+
+
+
+******************************** (dynamic, 0) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4540.9 ms
+     Cifrar la pagina: 		Tej. serie = 1538.0 ms
+     Preparar la subida: 	Tej. serie = 2158.6 ms
+
+     TOTAL: 			Tej. serie = 8237.5 ms
+
+
+
+******************************** (dynamic, 0) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2854.1 ms
+     Cifrar la pagina: 		Tej. serie = 1531.9 ms
+     Preparar la subida: 	Tej. serie = 1915.0 ms
+
+     TOTAL: 			Tej. serie = 6301.0 ms
+
+
+
+******************************** (dynamic, 0) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1999.2 ms
+     Cifrar la pagina: 		Tej. serie = 1580.0 ms
+     Preparar la subida: 	Tej. serie = 1813.5 ms
+
+     TOTAL: 			Tej. serie = 5392.7 ms
+
+
+
+******************************** (dynamic, 0) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1581.6 ms
+     Cifrar la pagina: 		Tej. serie = 1602.1 ms
+     Preparar la subida: 	Tej. serie = 2208.6 ms
+
+     TOTAL: 			Tej. serie = 5392.3 ms
+
+
+
+******************************** (dynamic, 0) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1478.8 ms
+     Cifrar la pagina: 		Tej. serie = 1580.2 ms
+     Preparar la subida: 	Tej. serie = 2220.7 ms
+
+     TOTAL: 			Tej. serie = 5279.7 ms
+
+
+
+******************************** (dynamic, 0) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1401.0 ms
+     Cifrar la pagina: 		Tej. serie = 1509.8 ms
+     Preparar la subida: 	Tej. serie = 2229.5 ms
+
+     TOTAL: 			Tej. serie = 5140.3 ms
+
+
+
+******************************** (dynamic, 1) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4532.4 ms
+     Cifrar la pagina: 		Tej. serie = 1540.0 ms
+     Preparar la subida: 	Tej. serie = 2168.3 ms
+
+     TOTAL: 			Tej. serie = 8240.7 ms
+
+
+
+******************************** (dynamic, 1) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2859.5 ms
+     Cifrar la pagina: 		Tej. serie = 1531.4 ms
+     Preparar la subida: 	Tej. serie = 1913.9 ms
+
+     TOTAL: 			Tej. serie = 6304.8 ms
+
+
+
+******************************** (dynamic, 1) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2003.8 ms
+     Cifrar la pagina: 		Tej. serie = 1402.7 ms
+     Preparar la subida: 	Tej. serie = 1810.0 ms
+
+     TOTAL: 			Tej. serie = 5216.5 ms
+
+
+
+******************************** (dynamic, 1) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1600.4 ms
+     Cifrar la pagina: 		Tej. serie = 1525.2 ms
+     Preparar la subida: 	Tej. serie = 2213.4 ms
+
+     TOTAL: 			Tej. serie = 5338.9 ms
+
+
+
+******************************** (dynamic, 1) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1470.8 ms
+     Cifrar la pagina: 		Tej. serie = 1538.4 ms
+     Preparar la subida: 	Tej. serie = 2204.9 ms
+
+     TOTAL: 			Tej. serie = 5214.1 ms
+
+
+
+******************************** (dynamic, 1) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1404.5 ms
+     Cifrar la pagina: 		Tej. serie = 1574.4 ms
+     Preparar la subida: 	Tej. serie = 2188.1 ms
+
+     TOTAL: 			Tej. serie = 5166.9 ms
+
+
+
+******************************** (dynamic, 2) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4541.6 ms
+     Cifrar la pagina: 		Tej. serie = 820.9 ms
+     Preparar la subida: 	Tej. serie = 1427.9 ms
+
+     TOTAL: 			Tej. serie = 6790.4 ms
+
+
+
+******************************** (dynamic, 2) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2865.3 ms
+     Cifrar la pagina: 		Tej. serie = 747.2 ms
+     Preparar la subida: 	Tej. serie = 1176.9 ms
+
+     TOTAL: 			Tej. serie = 4789.5 ms
+
+
+
+******************************** (dynamic, 2) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2004.6 ms
+     Cifrar la pagina: 		Tej. serie = 765.9 ms
+     Preparar la subida: 	Tej. serie = 1071.9 ms
+
+     TOTAL: 			Tej. serie = 3842.3 ms
+
+
+
+******************************** (dynamic, 2) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1592.6 ms
+     Cifrar la pagina: 		Tej. serie = 826.1 ms
+     Preparar la subida: 	Tej. serie = 1147.9 ms
+
+     TOTAL: 			Tej. serie = 3566.6 ms
+
+
+
+******************************** (dynamic, 2) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1462.0 ms
+     Cifrar la pagina: 		Tej. serie = 803.4 ms
+     Preparar la subida: 	Tej. serie = 1169.9 ms
+
+     TOTAL: 			Tej. serie = 3435.3 ms
+
+
+
+******************************** (dynamic, 2) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1425.6 ms
+     Cifrar la pagina: 		Tej. serie = 802.8 ms
+     Preparar la subida: 	Tej. serie = 1300.4 ms
+
+     TOTAL: 			Tej. serie = 3528.8 ms
+
+
+
+******************************** (dynamic, 4) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4527.5 ms
+     Cifrar la pagina: 		Tej. serie = 477.1 ms
+     Preparar la subida: 	Tej. serie = 1112.8 ms
+
+     TOTAL: 			Tej. serie = 6117.4 ms
+
+
+
+******************************** (dynamic, 4) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2840.9 ms
+     Cifrar la pagina: 		Tej. serie = 408.5 ms
+     Preparar la subida: 	Tej. serie = 832.4 ms
+
+     TOTAL: 			Tej. serie = 4081.7 ms
+
+
+
+******************************** (dynamic, 4) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1986.4 ms
+     Cifrar la pagina: 		Tej. serie = 430.5 ms
+     Preparar la subida: 	Tej. serie = 683.2 ms
+
+     TOTAL: 			Tej. serie = 3100.2 ms
+
+
+
+******************************** (dynamic, 4) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1589.8 ms
+     Cifrar la pagina: 		Tej. serie = 416.2 ms
+     Preparar la subida: 	Tej. serie = 735.4 ms
+
+     TOTAL: 			Tej. serie = 2741.4 ms
+
+
+
+******************************** (dynamic, 4) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1448.1 ms
+     Cifrar la pagina: 		Tej. serie = 396.1 ms
+     Preparar la subida: 	Tej. serie = 837.2 ms
+
+     TOTAL: 			Tej. serie = 2681.3 ms
+
+
+
+******************************** (dynamic, 4) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1418.3 ms
+     Cifrar la pagina: 		Tej. serie = 387.0 ms
+     Preparar la subida: 	Tej. serie = 803.6 ms
+
+     TOTAL: 			Tej. serie = 2608.8 ms
+
+
+
+******************************** (dynamic, 8) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4529.9 ms
+     Cifrar la pagina: 		Tej. serie = 349.2 ms
+     Preparar la subida: 	Tej. serie = 859.9 ms
+
+     TOTAL: 			Tej. serie = 5739.1 ms
+
+
+
+******************************** (dynamic, 8) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2836.6 ms
+     Cifrar la pagina: 		Tej. serie = 335.4 ms
+     Preparar la subida: 	Tej. serie = 684.4 ms
+
+     TOTAL: 			Tej. serie = 3856.3 ms
+
+
+
+******************************** (dynamic, 8) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1988.9 ms
+     Cifrar la pagina: 		Tej. serie = 235.4 ms
+     Preparar la subida: 	Tej. serie = 476.6 ms
+
+     TOTAL: 			Tej. serie = 2700.8 ms
+
+
+
+******************************** (dynamic, 8) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1608.5 ms
+     Cifrar la pagina: 		Tej. serie = 209.5 ms
+     Preparar la subida: 	Tej. serie = 466.8 ms
+
+     TOTAL: 			Tej. serie = 2284.8 ms
+
+
+
+******************************** (dynamic, 8) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1476.3 ms
+     Cifrar la pagina: 		Tej. serie = 205.1 ms
+     Preparar la subida: 	Tej. serie = 440.3 ms
+
+     TOTAL: 			Tej. serie = 2121.7 ms
+
+
+
+******************************** (dynamic, 8) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1441.2 ms
+     Cifrar la pagina: 		Tej. serie = 206.4 ms
+     Preparar la subida: 	Tej. serie = 418.0 ms
+
+     TOTAL: 			Tej. serie = 2065.7 ms
+
+
+
+******************************** (dynamic, 16) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4520.7 ms
+     Cifrar la pagina: 		Tej. serie = 337.9 ms
+     Preparar la subida: 	Tej. serie = 749.0 ms
+
+     TOTAL: 			Tej. serie = 5607.6 ms
+
+
+
+******************************** (dynamic, 16) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2834.7 ms
+     Cifrar la pagina: 		Tej. serie = 253.1 ms
+     Preparar la subida: 	Tej. serie = 454.1 ms
+
+     TOTAL: 			Tej. serie = 3542.0 ms
+
+
+
+******************************** (dynamic, 16) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1988.6 ms
+     Cifrar la pagina: 		Tej. serie = 187.7 ms
+     Preparar la subida: 	Tej. serie = 324.1 ms
+
+     TOTAL: 			Tej. serie = 2500.3 ms
+
+
+
+******************************** (dynamic, 16) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1586.0 ms
+     Cifrar la pagina: 		Tej. serie = 108.0 ms
+     Preparar la subida: 	Tej. serie = 255.0 ms
+
+     TOTAL: 			Tej. serie = 1948.9 ms
+
+
+
+******************************** (dynamic, 16) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1477.1 ms
+     Cifrar la pagina: 		Tej. serie = 108.9 ms
+     Preparar la subida: 	Tej. serie = 235.8 ms
+
+     TOTAL: 			Tej. serie = 1821.8 ms
+
+
+
+******************************** (dynamic, 16) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1414.9 ms
+     Cifrar la pagina: 		Tej. serie = 112.0 ms
+     Preparar la subida: 	Tej. serie = 222.0 ms
+
+     TOTAL: 			Tej. serie = 1748.9 ms
+
+
+
+******************************** (dynamic, 32) con 2 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 4528.7 ms
+     Cifrar la pagina: 		Tej. serie = 261.2 ms
+     Preparar la subida: 	Tej. serie = 689.9 ms
+
+     TOTAL: 			Tej. serie = 5479.7 ms
+
+
+
+******************************** (dynamic, 32) con 4 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 2836.4 ms
+     Cifrar la pagina: 		Tej. serie = 175.5 ms
+     Preparar la subida: 	Tej. serie = 388.4 ms
+
+     TOTAL: 			Tej. serie = 3400.3 ms
+
+
+
+******************************** (dynamic, 32) con 8 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1985.9 ms
+     Cifrar la pagina: 		Tej. serie = 113.0 ms
+     Preparar la subida: 	Tej. serie = 224.4 ms
+
+     TOTAL: 			Tej. serie = 2323.3 ms
+
+
+
+******************************** (dynamic, 32) con 16 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1606.1 ms
+     Cifrar la pagina: 		Tej. serie = 61.9 ms
+     Preparar la subida: 	Tej. serie = 162.8 ms
+
+     TOTAL: 			Tej. serie = 1830.8 ms
+
+
+
+******************************** (dynamic, 32) con 24 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1514.2 ms
+     Cifrar la pagina: 		Tej. serie = 61.1 ms
+     Preparar la subida: 	Tej. serie = 139.8 ms
+
+     TOTAL: 			Tej. serie = 1715.2 ms
+
+
+
+******************************** (dynamic, 32) con 32 hilos en Libro2.pgm ********************************
+
+
+ --> Procesando la pagina: Libro2.pgm (4096 x 4980). Limite: 177.5
+
+FILTRADO: 10 iteraciones, limite 177.068
+
+     Filtrar la pagina: 	Tej. serie = 1431.1 ms
+     Cifrar la pagina: 		Tej. serie = 60.1 ms
+     Preparar la subida: 	Tej. serie = 127.5 ms
+
+     TOTAL: 			Tej. serie = 1618.7 ms
+
+
+
+******************************** (static, 0) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10780.9 ms
+     Cifrar la pagina: 		Tej. serie = 363.0 ms
+     Preparar la subida: 	Tej. serie = 3016.7 ms
+
+     TOTAL: 			Tej. serie = 14160.5 ms
+
+
+
+******************************** (static, 0) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6717.6 ms
+     Cifrar la pagina: 		Tej. serie = 167.4 ms
+     Preparar la subida: 	Tej. serie = 1505.5 ms
+
+     TOTAL: 			Tej. serie = 8390.6 ms
+
+
+
+******************************** (static, 0) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4701.8 ms
+     Cifrar la pagina: 		Tej. serie = 95.7 ms
+     Preparar la subida: 	Tej. serie = 767.6 ms
+
+     TOTAL: 			Tej. serie = 5565.0 ms
+
+
+
+******************************** (static, 0) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3739.8 ms
+     Cifrar la pagina: 		Tej. serie = 58.3 ms
+     Preparar la subida: 	Tej. serie = 389.8 ms
+
+     TOTAL: 			Tej. serie = 4187.9 ms
+
+
+
+******************************** (static, 0) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3476.3 ms
+     Cifrar la pagina: 		Tej. serie = 48.0 ms
+     Preparar la subida: 	Tej. serie = 266.1 ms
+
+     TOTAL: 			Tej. serie = 3790.5 ms
+
+
+
+******************************** (static, 0) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3322.9 ms
+     Cifrar la pagina: 		Tej. serie = 41.9 ms
+     Preparar la subida: 	Tej. serie = 206.4 ms
+
+     TOTAL: 			Tej. serie = 3571.2 ms
+
+
+
+******************************** (static, 1) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10926.5 ms
+     Cifrar la pagina: 		Tej. serie = 1257.1 ms
+     Preparar la subida: 	Tej. serie = 3576.8 ms
+
+     TOTAL: 			Tej. serie = 15760.4 ms
+
+
+
+******************************** (static, 1) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6859.5 ms
+     Cifrar la pagina: 		Tej. serie = 641.8 ms
+     Preparar la subida: 	Tej. serie = 1791.6 ms
+
+     TOTAL: 			Tej. serie = 9293.0 ms
+
+
+
+******************************** (static, 1) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4764.8 ms
+     Cifrar la pagina: 		Tej. serie = 351.7 ms
+     Preparar la subida: 	Tej. serie = 900.9 ms
+
+     TOTAL: 			Tej. serie = 6017.4 ms
+
+
+
+******************************** (static, 1) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3752.7 ms
+     Cifrar la pagina: 		Tej. serie = 229.6 ms
+     Preparar la subida: 	Tej. serie = 454.6 ms
+
+     TOTAL: 			Tej. serie = 4436.8 ms
+
+
+
+******************************** (static, 1) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3562.6 ms
+     Cifrar la pagina: 		Tej. serie = 319.6 ms
+     Preparar la subida: 	Tej. serie = 312.9 ms
+
+     TOTAL: 			Tej. serie = 4195.1 ms
+
+
+
+******************************** (static, 1) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3292.9 ms
+     Cifrar la pagina: 		Tej. serie = 471.5 ms
+     Preparar la subida: 	Tej. serie = 291.7 ms
+
+     TOTAL: 			Tej. serie = 4056.0 ms
+
+
+
+******************************** (static, 2) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10940.9 ms
+     Cifrar la pagina: 		Tej. serie = 787.3 ms
+     Preparar la subida: 	Tej. serie = 2604.0 ms
+
+     TOTAL: 			Tej. serie = 14332.2 ms
+
+
+
+******************************** (static, 2) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6885.5 ms
+     Cifrar la pagina: 		Tej. serie = 475.0 ms
+     Preparar la subida: 	Tej. serie = 1308.3 ms
+
+     TOTAL: 			Tej. serie = 8668.8 ms
+
+
+
+******************************** (static, 2) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4792.8 ms
+     Cifrar la pagina: 		Tej. serie = 283.9 ms
+     Preparar la subida: 	Tej. serie = 660.9 ms
+
+     TOTAL: 			Tej. serie = 5737.6 ms
+
+
+
+******************************** (static, 2) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3824.4 ms
+     Cifrar la pagina: 		Tej. serie = 214.3 ms
+     Preparar la subida: 	Tej. serie = 368.7 ms
+
+     TOTAL: 			Tej. serie = 4407.4 ms
+
+
+
+******************************** (static, 2) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3490.5 ms
+     Cifrar la pagina: 		Tej. serie = 326.5 ms
+     Preparar la subida: 	Tej. serie = 255.1 ms
+
+     TOTAL: 			Tej. serie = 4072.1 ms
+
+
+
+******************************** (static, 2) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3299.5 ms
+     Cifrar la pagina: 		Tej. serie = 218.7 ms
+     Preparar la subida: 	Tej. serie = 258.4 ms
+
+     TOTAL: 			Tej. serie = 3776.7 ms
+
+
+
+******************************** (static, 4) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 11042.5 ms
+     Cifrar la pagina: 		Tej. serie = 552.6 ms
+     Preparar la subida: 	Tej. serie = 2135.0 ms
+
+     TOTAL: 			Tej. serie = 13730.1 ms
+
+
+
+******************************** (static, 4) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6908.9 ms
+     Cifrar la pagina: 		Tej. serie = 299.9 ms
+     Preparar la subida: 	Tej. serie = 1099.7 ms
+
+     TOTAL: 			Tej. serie = 8308.4 ms
+
+
+
+******************************** (static, 4) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4749.7 ms
+     Cifrar la pagina: 		Tej. serie = 217.2 ms
+     Preparar la subida: 	Tej. serie = 547.4 ms
+
+     TOTAL: 			Tej. serie = 5514.3 ms
+
+
+
+******************************** (static, 4) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3800.9 ms
+     Cifrar la pagina: 		Tej. serie = 163.0 ms
+     Preparar la subida: 	Tej. serie = 284.2 ms
+
+     TOTAL: 			Tej. serie = 4248.1 ms
+
+
+
+******************************** (static, 4) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3492.3 ms
+     Cifrar la pagina: 		Tej. serie = 129.8 ms
+     Preparar la subida: 	Tej. serie = 273.3 ms
+
+     TOTAL: 			Tej. serie = 3895.4 ms
+
+
+
+******************************** (static, 4) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3358.3 ms
+     Cifrar la pagina: 		Tej. serie = 116.1 ms
+     Preparar la subida: 	Tej. serie = 200.9 ms
+
+     TOTAL: 			Tej. serie = 3675.3 ms
+
+
+
+******************************** (static, 8) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10923.7 ms
+     Cifrar la pagina: 		Tej. serie = 455.5 ms
+     Preparar la subida: 	Tej. serie = 1899.0 ms
+
+     TOTAL: 			Tej. serie = 13278.2 ms
+
+
+
+******************************** (static, 8) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6857.4 ms
+     Cifrar la pagina: 		Tej. serie = 238.3 ms
+     Preparar la subida: 	Tej. serie = 965.4 ms
+
+     TOTAL: 			Tej. serie = 8061.1 ms
+
+
+
+******************************** (static, 8) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4820.8 ms
+     Cifrar la pagina: 		Tej. serie = 190.9 ms
+     Preparar la subida: 	Tej. serie = 483.4 ms
+
+     TOTAL: 			Tej. serie = 5495.0 ms
+
+
+
+******************************** (static, 8) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3867.8 ms
+     Cifrar la pagina: 		Tej. serie = 114.7 ms
+     Preparar la subida: 	Tej. serie = 298.8 ms
+
+     TOTAL: 			Tej. serie = 4281.2 ms
+
+
+
+******************************** (static, 8) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3479.4 ms
+     Cifrar la pagina: 		Tej. serie = 85.9 ms
+     Preparar la subida: 	Tej. serie = 202.4 ms
+
+     TOTAL: 			Tej. serie = 3767.7 ms
+
+
+
+******************************** (static, 8) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3467.2 ms
+     Cifrar la pagina: 		Tej. serie = 75.5 ms
+     Preparar la subida: 	Tej. serie = 154.5 ms
+
+     TOTAL: 			Tej. serie = 3697.2 ms
+
+
+
+******************************** (static, 16) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10902.5 ms
+     Cifrar la pagina: 		Tej. serie = 426.2 ms
+     Preparar la subida: 	Tej. serie = 1773.7 ms
+
+     TOTAL: 			Tej. serie = 13102.4 ms
+
+
+
+******************************** (static, 16) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6817.8 ms
+     Cifrar la pagina: 		Tej. serie = 264.0 ms
+     Preparar la subida: 	Tej. serie = 914.3 ms
+
+     TOTAL: 			Tej. serie = 7996.0 ms
+
+
+
+******************************** (static, 16) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4802.9 ms
+     Cifrar la pagina: 		Tej. serie = 183.3 ms
+     Preparar la subida: 	Tej. serie = 505.7 ms
+
+     TOTAL: 			Tej. serie = 5491.9 ms
+
+
+
+******************************** (static, 16) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3842.1 ms
+     Cifrar la pagina: 		Tej. serie = 109.1 ms
+     Preparar la subida: 	Tej. serie = 264.4 ms
+
+     TOTAL: 			Tej. serie = 4215.6 ms
+
+
+
+******************************** (static, 16) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3501.2 ms
+     Cifrar la pagina: 		Tej. serie = 91.6 ms
+     Preparar la subida: 	Tej. serie = 171.0 ms
+
+     TOTAL: 			Tej. serie = 3763.8 ms
+
+
+
+******************************** (static, 16) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3343.2 ms
+     Cifrar la pagina: 		Tej. serie = 74.0 ms
+     Preparar la subida: 	Tej. serie = 130.6 ms
+
+     TOTAL: 			Tej. serie = 3547.8 ms
+
+
+
+******************************** (static, 32) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10930.7 ms
+     Cifrar la pagina: 		Tej. serie = 481.4 ms
+     Preparar la subida: 	Tej. serie = 1715.6 ms
+
+     TOTAL: 			Tej. serie = 13127.7 ms
+
+
+
+******************************** (static, 32) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6793.6 ms
+     Cifrar la pagina: 		Tej. serie = 242.9 ms
+     Preparar la subida: 	Tej. serie = 897.5 ms
+
+     TOTAL: 			Tej. serie = 7934.0 ms
+
+
+
+******************************** (static, 32) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4773.2 ms
+     Cifrar la pagina: 		Tej. serie = 139.0 ms
+     Preparar la subida: 	Tej. serie = 501.3 ms
+
+     TOTAL: 			Tej. serie = 5413.6 ms
+
+
+
+******************************** (static, 32) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3832.3 ms
+     Cifrar la pagina: 		Tej. serie = 82.8 ms
+     Preparar la subida: 	Tej. serie = 250.4 ms
+
+     TOTAL: 			Tej. serie = 4165.5 ms
+
+
+
+******************************** (static, 32) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3512.4 ms
+     Cifrar la pagina: 		Tej. serie = 70.0 ms
+     Preparar la subida: 	Tej. serie = 166.6 ms
+
+     TOTAL: 			Tej. serie = 3748.9 ms
+
+
+
+******************************** (static, 32) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3359.3 ms
+     Cifrar la pagina: 		Tej. serie = 60.0 ms
+     Preparar la subida: 	Tej. serie = 124.2 ms
+
+     TOTAL: 			Tej. serie = 3543.5 ms
+
+
+
+******************************** (dynamic, 0) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10971.0 ms
+     Cifrar la pagina: 		Tej. serie = 5033.6 ms
+     Preparar la subida: 	Tej. serie = 6145.6 ms
+
+     TOTAL: 			Tej. serie = 22150.1 ms
+
+
+
+******************************** (dynamic, 0) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6854.2 ms
+     Cifrar la pagina: 		Tej. serie = 5868.0 ms
+     Preparar la subida: 	Tej. serie = 4952.6 ms
+
+     TOTAL: 			Tej. serie = 17674.8 ms
+
+
+
+******************************** (dynamic, 0) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4829.3 ms
+     Cifrar la pagina: 		Tej. serie = 5873.0 ms
+     Preparar la subida: 	Tej. serie = 4707.8 ms
+
+     TOTAL: 			Tej. serie = 15410.0 ms
+
+
+
+******************************** (dynamic, 0) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3783.6 ms
+     Cifrar la pagina: 		Tej. serie = 6286.7 ms
+     Preparar la subida: 	Tej. serie = 5729.0 ms
+
+     TOTAL: 			Tej. serie = 15799.3 ms
+
+
+
+******************************** (dynamic, 0) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3453.7 ms
+     Cifrar la pagina: 		Tej. serie = 6269.7 ms
+     Preparar la subida: 	Tej. serie = 5734.2 ms
+
+     TOTAL: 			Tej. serie = 15457.7 ms
+
+
+
+******************************** (dynamic, 0) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3274.4 ms
+     Cifrar la pagina: 		Tej. serie = 6425.0 ms
+     Preparar la subida: 	Tej. serie = 5742.6 ms
+
+     TOTAL: 			Tej. serie = 15442.0 ms
+
+
+
+******************************** (dynamic, 1) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10864.4 ms
+     Cifrar la pagina: 		Tej. serie = 3903.7 ms
+     Preparar la subida: 	Tej. serie = 5514.5 ms
+
+     TOTAL: 			Tej. serie = 20282.5 ms
+
+
+
+******************************** (dynamic, 1) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6885.6 ms
+     Cifrar la pagina: 		Tej. serie = 5827.2 ms
+     Preparar la subida: 	Tej. serie = 4988.6 ms
+
+     TOTAL: 			Tej. serie = 17701.4 ms
+
+
+
+******************************** (dynamic, 1) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4840.2 ms
+     Cifrar la pagina: 		Tej. serie = 6115.5 ms
+     Preparar la subida: 	Tej. serie = 4915.3 ms
+
+     TOTAL: 			Tej. serie = 15871.1 ms
+
+
+
+******************************** (dynamic, 1) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3793.4 ms
+     Cifrar la pagina: 		Tej. serie = 6894.4 ms
+     Preparar la subida: 	Tej. serie = 5645.0 ms
+
+     TOTAL: 			Tej. serie = 16332.9 ms
+
+
+
+******************************** (dynamic, 1) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3473.3 ms
+     Cifrar la pagina: 		Tej. serie = 6541.2 ms
+     Preparar la subida: 	Tej. serie = 6427.2 ms
+
+     TOTAL: 			Tej. serie = 16441.8 ms
+
+
+
+******************************** (dynamic, 1) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3264.5 ms
+     Cifrar la pagina: 		Tej. serie = 6757.0 ms
+     Preparar la subida: 	Tej. serie = 6358.2 ms
+
+     TOTAL: 			Tej. serie = 16379.7 ms
+
+
+
+******************************** (dynamic, 2) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10902.3 ms
+     Cifrar la pagina: 		Tej. serie = 2114.4 ms
+     Preparar la subida: 	Tej. serie = 4085.7 ms
+
+     TOTAL: 			Tej. serie = 17102.4 ms
+
+
+
+******************************** (dynamic, 2) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6880.8 ms
+     Cifrar la pagina: 		Tej. serie = 3795.6 ms
+     Preparar la subida: 	Tej. serie = 3032.1 ms
+
+     TOTAL: 			Tej. serie = 13708.5 ms
+
+
+
+******************************** (dynamic, 2) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4820.3 ms
+     Cifrar la pagina: 		Tej. serie = 4089.0 ms
+     Preparar la subida: 	Tej. serie = 2838.4 ms
+
+     TOTAL: 			Tej. serie = 11747.6 ms
+
+
+
+******************************** (dynamic, 2) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3797.4 ms
+     Cifrar la pagina: 		Tej. serie = 4095.1 ms
+     Preparar la subida: 	Tej. serie = 3130.4 ms
+
+     TOTAL: 			Tej. serie = 11022.8 ms
+
+
+
+******************************** (dynamic, 2) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3460.4 ms
+     Cifrar la pagina: 		Tej. serie = 3971.7 ms
+     Preparar la subida: 	Tej. serie = 3349.5 ms
+
+     TOTAL: 			Tej. serie = 10781.6 ms
+
+
+
+******************************** (dynamic, 2) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3306.4 ms
+     Cifrar la pagina: 		Tej. serie = 4180.3 ms
+     Preparar la subida: 	Tej. serie = 3341.4 ms
+
+     TOTAL: 			Tej. serie = 10828.0 ms
+
+
+
+******************************** (dynamic, 4) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10992.6 ms
+     Cifrar la pagina: 		Tej. serie = 1247.1 ms
+     Preparar la subida: 	Tej. serie = 2892.2 ms
+
+     TOTAL: 			Tej. serie = 15131.9 ms
+
+
+
+******************************** (dynamic, 4) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6809.0 ms
+     Cifrar la pagina: 		Tej. serie = 1711.1 ms
+     Preparar la subida: 	Tej. serie = 2346.8 ms
+
+     TOTAL: 			Tej. serie = 10867.0 ms
+
+
+
+******************************** (dynamic, 4) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4833.0 ms
+     Cifrar la pagina: 		Tej. serie = 1877.5 ms
+     Preparar la subida: 	Tej. serie = 1828.5 ms
+
+     TOTAL: 			Tej. serie = 8539.0 ms
+
+
+
+******************************** (dynamic, 4) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3797.9 ms
+     Cifrar la pagina: 		Tej. serie = 2072.7 ms
+     Preparar la subida: 	Tej. serie = 1883.1 ms
+
+     TOTAL: 			Tej. serie = 7753.7 ms
+
+
+
+******************************** (dynamic, 4) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3404.6 ms
+     Cifrar la pagina: 		Tej. serie = 1958.2 ms
+     Preparar la subida: 	Tej. serie = 1983.8 ms
+
+     TOTAL: 			Tej. serie = 7346.6 ms
+
+
+
+******************************** (dynamic, 4) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3334.3 ms
+     Cifrar la pagina: 		Tej. serie = 2059.6 ms
+     Preparar la subida: 	Tej. serie = 2069.7 ms
+
+     TOTAL: 			Tej. serie = 7463.7 ms
+
+
+
+******************************** (dynamic, 8) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10828.2 ms
+     Cifrar la pagina: 		Tej. serie = 877.1 ms
+     Preparar la subida: 	Tej. serie = 2219.0 ms
+
+     TOTAL: 			Tej. serie = 13924.3 ms
+
+
+
+******************************** (dynamic, 8) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6825.3 ms
+     Cifrar la pagina: 		Tej. serie = 1011.9 ms
+     Preparar la subida: 	Tej. serie = 1683.1 ms
+
+     TOTAL: 			Tej. serie = 9520.2 ms
+
+
+
+******************************** (dynamic, 8) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4747.2 ms
+     Cifrar la pagina: 		Tej. serie = 1036.0 ms
+     Preparar la subida: 	Tej. serie = 1270.8 ms
+
+     TOTAL: 			Tej. serie = 7054.0 ms
+
+
+
+******************************** (dynamic, 8) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3778.1 ms
+     Cifrar la pagina: 		Tej. serie = 1008.3 ms
+     Preparar la subida: 	Tej. serie = 1096.4 ms
+
+     TOTAL: 			Tej. serie = 5882.7 ms
+
+
+
+******************************** (dynamic, 8) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3425.2 ms
+     Cifrar la pagina: 		Tej. serie = 1047.5 ms
+     Preparar la subida: 	Tej. serie = 1113.4 ms
+
+     TOTAL: 			Tej. serie = 5586.1 ms
+
+
+
+******************************** (dynamic, 8) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3248.7 ms
+     Cifrar la pagina: 		Tej. serie = 1038.4 ms
+     Preparar la subida: 	Tej. serie = 1016.9 ms
+
+     TOTAL: 			Tej. serie = 5304.0 ms
+
+
+
+******************************** (dynamic, 16) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10967.4 ms
+     Cifrar la pagina: 		Tej. serie = 870.9 ms
+     Preparar la subida: 	Tej. serie = 1936.0 ms
+
+     TOTAL: 			Tej. serie = 13774.3 ms
+
+
+
+******************************** (dynamic, 16) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6810.6 ms
+     Cifrar la pagina: 		Tej. serie = 662.8 ms
+     Preparar la subida: 	Tej. serie = 1107.2 ms
+
+     TOTAL: 			Tej. serie = 8580.6 ms
+
+
+
+******************************** (dynamic, 16) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4771.8 ms
+     Cifrar la pagina: 		Tej. serie = 521.6 ms
+     Preparar la subida: 	Tej. serie = 802.2 ms
+
+     TOTAL: 			Tej. serie = 6095.6 ms
+
+
+
+******************************** (dynamic, 16) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3777.9 ms
+     Cifrar la pagina: 		Tej. serie = 531.2 ms
+     Preparar la subida: 	Tej. serie = 626.1 ms
+
+     TOTAL: 			Tej. serie = 4935.3 ms
+
+
+
+******************************** (dynamic, 16) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3481.7 ms
+     Cifrar la pagina: 		Tej. serie = 555.8 ms
+     Preparar la subida: 	Tej. serie = 599.9 ms
+
+     TOTAL: 			Tej. serie = 4637.3 ms
+
+
+
+******************************** (dynamic, 16) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3240.6 ms
+     Cifrar la pagina: 		Tej. serie = 514.2 ms
+     Preparar la subida: 	Tej. serie = 548.0 ms
+
+     TOTAL: 			Tej. serie = 4302.8 ms
+
+
+
+******************************** (dynamic, 32) con 2 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 10825.5 ms
+     Cifrar la pagina: 		Tej. serie = 626.3 ms
+     Preparar la subida: 	Tej. serie = 1824.2 ms
+
+     TOTAL: 			Tej. serie = 13276.0 ms
+
+
+
+******************************** (dynamic, 32) con 4 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 6805.2 ms
+     Cifrar la pagina: 		Tej. serie = 445.4 ms
+     Preparar la subida: 	Tej. serie = 990.3 ms
+
+     TOTAL: 			Tej. serie = 8241.0 ms
+
+
+
+******************************** (dynamic, 32) con 8 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 4772.3 ms
+     Cifrar la pagina: 		Tej. serie = 267.6 ms
+     Preparar la subida: 	Tej. serie = 585.9 ms
+
+     TOTAL: 			Tej. serie = 5625.8 ms
+
+
+
+******************************** (dynamic, 32) con 16 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3767.6 ms
+     Cifrar la pagina: 		Tej. serie = 282.7 ms
+     Preparar la subida: 	Tej. serie = 467.3 ms
+
+     TOTAL: 			Tej. serie = 4517.7 ms
+
+
+
+******************************** (dynamic, 32) con 24 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3442.7 ms
+     Cifrar la pagina: 		Tej. serie = 285.8 ms
+     Preparar la subida: 	Tej. serie = 346.8 ms
+
+     TOTAL: 			Tej. serie = 4075.4 ms
+
+
+
+******************************** (dynamic, 32) con 32 hilos en Libro3.pgm ********************************
+
+
+ --> Procesando la pagina: Libro3.pgm (6520 x 8080). Limite: 125.0
+
+FILTRADO: 9 iteraciones, limite 124.932
+
+     Filtrar la pagina: 	Tej. serie = 3247.8 ms
+     Cifrar la pagina: 		Tej. serie = 295.8 ms
+     Preparar la subida: 	Tej. serie = 327.1 ms
+
+     TOTAL: 			Tej. serie = 3870.8 ms
+
+
